@@ -15,6 +15,7 @@ function substr(word, begin, n){
 }
 
 function isPalindrome(word){
+  word = word + '';
   if (word.length <= 1) return true;
   let length = word.length;
   if (word[length - length] == word[length - 1]) return isPalindrome(substr(word, length - length + 1, length - 2));
