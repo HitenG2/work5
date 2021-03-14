@@ -1,0 +1,11 @@
+{
+  "name": "palindrome-and-apply",
+  "version": "0.1.0",
+  "description": "\"Work5 (JR)\"",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ruslan Guseinov",
+  "license": "ISC"
+}
